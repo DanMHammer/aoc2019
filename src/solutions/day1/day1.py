@@ -3,7 +3,7 @@ def fuel_eq(n):
 
 
 if __name__ == "__main__":
-    with open("../inputs/day1.txt", "r") as file:
+    with open("./input.txt", "r") as file:
         fuel = 0
         for line in file:
             newFuel = fuel_eq(int(line))
