@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d703ec8-b66e-40a7-8a96-75ce7a01d13f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/day1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/day2/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inputs/day1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/day1/day1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/day1/day1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/day2/day2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/day3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/day3/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +190,7 @@
       <workItem from="1575319771127" duration="4580000" />
       <workItem from="1575326607326" duration="21000" />
       <workItem from="1575382514294" duration="1615000" />
-      <workItem from="1575390792513" duration="299000" />
+      <workItem from="1575390792513" duration="4272000" />
     </task>
     <servers />
   </component>
@@ -215,7 +210,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled3$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1575323022205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/solutions" />
-    <SUITE FILE_PATH="coverage/untitled3$main.coverage" NAME="main Coverage Results" MODIFIED="1575384012188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/solutions/day3" />
+    <SUITE FILE_PATH="coverage/untitled3$main.coverage" NAME="main Coverage Results" MODIFIED="1575396678389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/solutions/day3" />
     <SUITE FILE_PATH="coverage/untitled3$smooth_operator.coverage" NAME="smooth_operator Coverage Results" MODIFIED="1575321516457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opcodes" />
     <SUITE FILE_PATH="coverage/untitled3$smooth_operator__1_.coverage" NAME="smooth_operator (1) Coverage Results" MODIFIED="1575324003097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/opcodes" />
     <SUITE FILE_PATH="coverage/untitled3$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1575326614573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
