@@ -24,6 +24,7 @@ class Body:
         return distance
 
 
+
 class OrbitMap:
     def __init__(self):
         self.bodies = dict()
@@ -48,6 +49,9 @@ class OrbitMap:
             num += body_object.indirect()
         return num
 
+    def you_to_santa(self):
+        return self.bodies["YOU"].distance_to_santa()
+
 
 if __name__ == "__main__":
     with open("./input.txt", "r") as file:
@@ -61,4 +65,5 @@ if __name__ == "__main__":
         print(f"Direct: {direct}")
         print(f"Indirect: {indirect}")
         print(f"Part One: {direct + indirect}")
+        print(f"Part Two: {Orbits.you_to_santa()}")
 
