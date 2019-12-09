@@ -20,7 +20,6 @@ class Computer:
 
     def set_data(self, data):
         self.data = data
-        self.data.append([0])
 
     def set_pointer(self, pointer):
         self.pointer = pointer
